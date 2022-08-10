@@ -9,5 +9,7 @@
 <body>
 	<!-- 첫번째 수정 -->
 	<h1>index.jsp</h1>
+	<h2>Hello</h2>
+	<h3>hh</h3>
 </body>
 </html>
