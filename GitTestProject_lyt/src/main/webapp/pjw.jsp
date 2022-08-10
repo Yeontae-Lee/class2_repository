@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>pyj입니다</h1>
+박진우
 </body>
 </html>
